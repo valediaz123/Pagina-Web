@@ -11,12 +11,14 @@
    display: flex;
      
 }
-body{
-    background-image: url("fondo.jpg");
-    background-repeat: no-repeat;
+ body{
+    background-image: url("Fondo2.jpg");
+  
 
 }
 .titulo{
     font-size: 40px;
     text-align: center;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
