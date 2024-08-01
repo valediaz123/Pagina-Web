@@ -22,3 +22,8 @@
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.Img1{
+    height: 300px;
+    width: 300px;
+    background-image: url("circuito.webp");
+}
