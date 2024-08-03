@@ -2,7 +2,7 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 40px;
     padding-top: 140px;
     text-align: justify;
     color: rgb(20, 20, 20);
@@ -11,19 +11,28 @@
    display: flex;
      
 }
- body{
+body{
     background-image: url("Fondo2.jpg");
-  
+   
 
 }
 .titulo{
     font-size: 40px;
     text-align: center;
-    color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: black;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.Img1{
-    height: 300px;
-    width: 300px;
-    background-image: url("circuito.webp");
+.image{
+    height: 357px;
+    width: 390px;
+    background-image: url('circuito.webp');
+    background-repeat: no-repeat;
+    float: right;
+}
+.img1{
+    height: 1062px;
+    width: 2000px;
+    background-image: url('mapa.png');
+    background-repeat: no-repeat;
+   
 }
