@@ -34,5 +34,107 @@ body{
     width: 2000px;
     background-image: url('mapa.png');
     background-repeat: no-repeat;
-   
+ 
+}
+.img2{
+    height: 566px;
+    width:  559px;
+    background-image: url('yo.jpeg');
+    background-repeat: no-repeat;
+    float: right;
+} 
+.img3{
+    height: 376px;
+    width: 844px;
+    background-image: url('alimenticios.png');
+    background-repeat: no-repeat;
+    
+}
+.img4{
+    height: 376px;
+    width: 844px;
+    background-image: url('anorexia.png');
+    background-repeat: no-repeat;
+
+}
+.img5{
+    height: 717px;
+    width: 825px;
+    background-image: url('bulimia.png');
+    background-repeat: no-repeat;
+ 
+}
+.img6{
+    height: 198px;
+    width: 825px;
+    background-image: url('dormir.png');
+    background-repeat: no-repeat;
+ 
+}
+.img7{
+    height: 154px;
+    width: 825px;
+    background-image: url('actividad.png');
+    background-repeat: no-repeat;
+ 
+}
+.img8{
+    height: 175px;
+    width: 825px;
+    background-image: url('vegetales.png');
+    background-repeat: no-repeat;
+}
+.img9{
+    height: 181px;
+    width: 825px;
+    background-image: url('meditar.png');
+    background-repeat: no-repeat;  
+}
+.img10{
+    height: 195px;
+    width: 825px;
+    background-image: url('agua.png');
+    background-repeat: no-repeat; 
+}
+.img11{
+    height: 190px;
+    width: 825px;
+    background-image: url('doctor.png');
+    background-repeat: no-repeat; 
+}
+.img12{
+    height: 209px;
+    width: 825px;
+    background-image: url('fumar.png');
+    background-repeat: no-repeat; 
+}
+.img13{
+    height: 204px;
+    width: 825px;
+    background-image: url('alcohol.jpg');
+    background-repeat: no-repeat; 
+}
+.img14{
+    height: 209px;
+    width: 825px;
+    background-image: url('nodormir.png');
+    background-repeat: no-repeat; 
+}
+.img15{
+    height: 172px;
+    width: 825px;
+    background-image: url('chatarra.png');
+    background-repeat: no-repeat; 
+}
+.img16{
+    height:169px;
+    width: 825px;
+    background-image: url('dulces.png');
+    background-repeat: no-repeat; 
+}
+.img17{
+    height: 717px;
+    width: 825px;
+    background-image: url('noactividad.png');
+    background-repeat: no-repeat; 
 }
