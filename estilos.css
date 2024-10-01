@@ -138,3 +138,15 @@ body{
     background-image: url('noactividad.png');
     background-repeat: no-repeat; 
 }
+.imgexcel{
+    height: 400px;
+    width: 612px;
+    background-image: url("funciones.jpeg");
+    background-repeat: no-repeat;
+   }
+   .imgexcel1{
+    height: 400px;
+    width: 500px;
+    background-image: url("excel.png");
+    background-repeat: no-repeat;
+   }
