@@ -150,3 +150,15 @@ body{
     background-image: url("excel.png");
     background-repeat: no-repeat;
    }
+   .imglogo{
+    height: 1005px;
+    width: 1060px;
+    background-image: url("Logo.jpeg");
+    background-repeat: no-repeat;
+   }
+   .imggustos{
+    height: 1005px;
+    width: 1060px;
+    background-image: url("gustos.jpeg");
+    background-repeat: no-repeat;
+   }
