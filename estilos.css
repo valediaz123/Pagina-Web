@@ -162,3 +162,51 @@ body{
     background-image: url("gustos.jpeg");
     background-repeat: no-repeat;
    }
+   .imgmapa{
+    height: 759px;
+    width: 1015px;
+    background-image: url("Grafica\ Mapa\ Conceptual\ Esquema\ Simple\ Multicolor.png");
+    background-repeat: no-repeat;
+   }
+   .imgguerra{
+    height: 266px;
+    width: 400px;
+    background-image: url("guerra.png");
+    background-repeat: no-repeat;
+   }
+   .imgtrato{
+    height: 400px;
+    width: 597px;
+    background-image: url("respeto.png");
+    background-repeat: no-repeat;
+   }
+   .imgescuchar{
+    height: 174px;
+    width: 400px;
+    background-image: url("escucha.jpeg");
+    background-repeat: no-repeat;
+   }
+   .imgrespetar{
+    height: 483px;
+    width: 485px;
+    background-image: url("respeto.jpg");
+    background-repeat: no-repeat;
+   }
+   .imgviolencia{
+    height: 400px;
+    width: 400px;
+    background-image: url("fight-violence-icon-cartoon-school-bully-vector.jpg");
+    background-repeat: no-repeat;
+   }
+   .imgidentidad{
+    height: 400px;
+    width: 400px;
+    background-image: url("identidad.jpg");
+    background-repeat: no-repeat;
+   }
+   .imgestereotipos{
+    height: 400px;
+    width: 735px;
+    background-image: url("estereotipo.jpg");
+    background-repeat: no-repeat;
+   }
